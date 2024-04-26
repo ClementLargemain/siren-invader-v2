@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "sireneInvider",
+      "script": "./main.js",
+      "instances": "max",
+      "exec_mode": "cluster",
+      "autorestart": false
+    }
+  ]
+}
