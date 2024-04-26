@@ -40,7 +40,7 @@ Update constants.js with your MongoDB connection URL (mongoUrl), CSV file path (
 ![Algo](/documentation/algo.png)
 
 ![Topo](/documentation/topo.png)
-*
+
 
 ### Benchmark
 
