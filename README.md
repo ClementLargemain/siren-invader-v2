@@ -5,9 +5,10 @@ Sirene Invader is a Node.js application designed to efficiently process and anal
 
 ## Features
 - CSV Splitting: Large CSV files are split into smaller chunks for parallel processing.
-- Parallel Processing: Multiple worker processes handle chunks of data simultaneously for faster execution.
+- Parallel Processing: Multiple worker processes with PM2 handle chunks of data simultaneously for faster execution.
 - MongoDB Integration: Processed data is stored in a MongoDB database for easy retrieval and analysis.
-- Performance Monitoring: Utilizes performance monitoring to track and optimize processing times.
+
+
 ## Installation
 1. Clone the repository: git clone https://github.com/your_username/sirene-invader.git
 2. Sirene Invader V2 requires [Node.js](https://nodejs.org/) to run.
